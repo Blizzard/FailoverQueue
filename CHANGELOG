@@ -1,0 +1,13 @@
+
+2011-01-10 Nick Gerakines <ngerakines@blizzard.com>
+	* Release preparation for v0.2.0
+	* Minor code refactoring from internal review and feedback
+
+2010-11-29 Nick Gerakines <ngerakines@blizzard.com>
+	* Initial release and release preparation for v0.1.0
+	* Imported failoverqueue source
+	* Added several unit tests and updated build system include test target
+	* Created README, change log and license information documents
+
+Copyright 2010,2011 Blizzard Entertainment
+
